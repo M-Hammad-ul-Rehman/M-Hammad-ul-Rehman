@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there, I'm M.Hammad ul Rehman 👋
 
-<!--
-**M-Hammad-ul-Rehman/M-Hammad-ul-Rehman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Backend & Full-Stack Software Developer** with 2+ years of experience turning complex requirements into production-ready software. My core focus is **backend architecture, database development, and ML/LLM integration**, paired with a solid grasp of frontend workflows to ship complete products from scratch to deployment.
 
-Here are some ideas to get you started:
+#### 🚀 What I Build & Work With
+- **AI & Integrations:** Embedding Large Language Models (LLMs), ML pipelines, and third-party APIs into real-world workflows.
+- **Full-Stack & E-Commerce:** Developing fast, responsive web applications, custom e-commerce platforms, and portfolio sites.
+- **Desktop & Systems:** Engineering cross-platform desktop applications, designing efficient database schemas, and managing cloud deployments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📌 Featured Work & Focus
+- 🔭 **Currently working on:** [Project Name / Brief 1-line description]
+- 🌱 **Exploring:** [e.g., Agentic AI workflows, system optimization, or a new framework]
+- 🌐 **Portfolio:** [your-portfolio-link.com]
+- 📫 **Reach me at:** [your.email@example.com] or [LinkedIn](your-linkedin-url)
