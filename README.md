@@ -11,4 +11,4 @@ I'm a **Backend & Full-Stack Software Developer** with 2+ years of experience tu
 - 🔭 **Currently working on:** [Project Name / Brief 1-line description]
 - 🌱 **Exploring:** [e.g., Agentic AI workflows, system optimization, or a new framework]
 - 🌐 **Portfolio:** [your-portfolio-link.com]
-- 📫 **Reach me at:** [your.email@example.com] or [LinkedIn](your-linkedin-url)
+- 📫 **Reach me at:** soon
