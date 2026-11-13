@@ -4,7 +4,7 @@ I'm a **Backend & Full-Stack Software Developer** with 2+ years of experience tu
 
 #### 🚀 What I Build & Work With
 - **AI & Integrations:** Embedding Large Language Models (LLMs), ML pipelines, and third-party APIs into real-world workflows.
-- **Full-Stack & E-Commerce:** Developing fast, responsive web applications, custom e-commerce platforms, and portfolio sites.
+- **Full-Stack & E-Commerce:** Developing fast, responsive web applications, AI-Powered Websites + Dashboard,custom e-commerce platforms, and portfolio sites.
 - **Desktop & Systems:** Engineering cross-platform desktop applications, designing efficient database schemas, and managing cloud deployments.
 
 #### 📌 Featured Work & Focus
